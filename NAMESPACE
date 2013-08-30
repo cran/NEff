@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+
+importFrom("bit", as.bit, as.which)
+
+importFrom("msm", rtnorm)
